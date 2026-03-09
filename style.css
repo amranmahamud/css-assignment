@@ -1,23 +1,4 @@
-.p3 {
-   color: purple;
-   text-decoration: underline;
-}
 
-.highlight2 {
-   color: green;
-}
-
-.highlight3 {
-   color: brown;
-}
-
-.building2 {
-   color: darkorange;
-}
-
-.building3 {
-   color: purple;
-}
 /* Make all tables clean and with borders */
 table {
    width: 90%;
